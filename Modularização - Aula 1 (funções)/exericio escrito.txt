@@ -1,0 +1,12 @@
+Funções: Funções são pequenas repartições do seus códigos para fácil manunteção. Quando utiliza-se muitas vezes uma determinada parte do código, é viável se criar uma função para podê-la repetir quantas vezes quiser. 
+
+Parâmetros são especificações para as entradas em determinadas funções. Quando criamos uma função de soma simples, devemos passar os parâmetros sendo dois números inteiros, por exemplo.
+
+Os tipos das funções (int, float, bool...) são as características de retorno dessa função. Uma função determinada como int, apenas pode retornar um valor inteiro válido. 
+
+O tipo de função void não possui nenhum retorno, apenas executa o bloco de código.
+
+O tipo de passagem mais comum é o passagem de valor, no qual o valor inicial não é alterado, apenas copiado para executar determinado código. Também existe o passado por parâmetro, no qual utilizamos ponterios para alterar o valor inicial também.
+
+Existem vários tipos de retorno, como int, float, bool, char, string. 
+
