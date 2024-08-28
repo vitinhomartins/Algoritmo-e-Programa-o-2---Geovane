@@ -1,0 +1,3 @@
+Na linha 4 será exibido o valor 5 residente na variável i.
+Na linha 5 será exibido o endereço de memória da variável i guardado no ponteiro p_contador. 
+

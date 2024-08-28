@@ -1,0 +1,2 @@
+A linha 4 executará a saída do endereço de memória da variável "conta".
+Na linha 6, o valor resultante será o endereço de memória da variável "resposta".

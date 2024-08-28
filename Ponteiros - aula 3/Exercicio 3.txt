@@ -1,0 +1,9 @@
+a) A instrução da linha 6 e 8 printará no terminal o número 55. 
+
+b) 1) A declaração correta para um ponteiro é "int *pti;".
+2) A instrução c.
+3) A instrução b (coloca o conteúdo de pti, caso houvesse), d) pti cria uma variável do tipo inteiro e e) cria um ponteiro. Entretanto, elas não funcionarão por não terem a estrutura correta. 
+
+c) a afirmação 5 é incorreta, pois o valor de pti é o endereço da variável i, não 10. 
+
+d) feito no arquivo (Exercício D.cpp).
