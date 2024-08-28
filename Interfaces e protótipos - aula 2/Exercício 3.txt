@@ -1,0 +1,3 @@
+A primeira interface de função representa uma função que terá um retorno de valor inteiro, entretanto, não terá nenhuma entrada. 
+A segunda interface é de uma função que não haverá retorno, porém, terá como entrada (parâmetro) um valor sem sinal inteiro denominado 'seed'.
+A terceira interface terá um retorno de inteiro 
