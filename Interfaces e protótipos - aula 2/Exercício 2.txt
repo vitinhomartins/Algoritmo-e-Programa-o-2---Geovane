@@ -1,0 +1,1 @@
+As funções que possuem retorno são do tipo diferente de void (função específica que não possui retorno). Os retornos estão sendo usados como saída, atribuição, operação(soma) e comparação, respectivamente. Os parâmetros estão sendo usados como entradas de seus respectivos tipos. 

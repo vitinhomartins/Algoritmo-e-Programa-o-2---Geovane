@@ -1,0 +1,3 @@
+A primeira saída continuaria tendo o valor iniciar, pois, a função não alterou o valor da variável. Entretanto, na segunda saída, o valor foi alterado depois da atribuição da varíavel ao retorno de sua função. Portanto, a segunda saída possuíra o valor alterado.
+Caso fosse alterado para a "nome" o compilador retornaria um erro de compilação, pois, nome não está no escopo da função que estamos usando.
+
