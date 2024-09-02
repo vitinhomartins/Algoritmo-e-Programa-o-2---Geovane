@@ -1,0 +1,49 @@
+Exercício 1:
+
+Os valores mostrados serão, respectivamente: 1, 2, 3.
+Os valores mostrados na linha 6 serão, respectivamente: 101, 102, 103.
+Os valores mostrados serão, respectivamente: 1, 2, 3.
+
+Exercício 2:
+
+Os valores mostrados serão, respectivamente: 1, 2, 3.
+Os valores mostrados na linha 6 serão, respectivamente: 101, 102, 103.
+Os valores mostrados na linha 6 serão, respectivamente: 101, 102, 103.
+
+Exercício 3:
+
+Os valores mostrados serão, respectivamente: 0 e 5.
+Os valores mostrados serão, respectivamente: 5 e 5.
+
+Exercício 4:
+
+Os valores resultantes da instrução 11 serão: 2, 4, 6.
+Os valores resultantes da instrução 13 serão: 2, 4, 6.
+Os valores resultantes da instrução 14: 2, 4, 6.
+Os valores resultantes da instrução 16 serão: 0, 0, 0.
+
+Exercício 5:
+
+O valor resultante da linha 3 será: 11.
+O valor resultante da linha 9 será: 11.
+
+Exercício 6:
+
+Os valores resultantes na linha 4 serão: 8.
+Os valores resultantes na linha 5 serão: 7.
+Os valores resultantes na linha 11 serão: 8.
+Os valores resultantes na linha 5 serão: 2.
+
+Exercício 7:
+
+Executando o teste de mesa com os valores a = 2 e b = 4.
+O valor resultante será 9.
+
+Exercício 7/B:
+
+Não será possível, pois, o valor a ser lido espera um endereço e não um conteúdo.
+
+
+
+
+
